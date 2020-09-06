@@ -1,5 +1,6 @@
 package _01_AnimalFarm;
 
+
 public class Bunny extends Animal{
 	public Bunny() {
 		
@@ -8,7 +9,7 @@ public class Bunny extends Animal{
 	public void makeNoise() {
 		// TODO Auto-generated method stub
 		System.out.println("hmmm");
-		
+
 	}
 
 	@Override
